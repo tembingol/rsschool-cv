@@ -6,3 +6,7 @@
    - Tel: +7 701-569-58-88
    - Telegram: @tembingol
    - Email: tembingol@gmail.com
+   -
+3. **About me:** Hi, my name is Alexandr and I am a 1C programmer. but I want to become a web developer.  
+   My advantages:
+   - learnability - responsibility
