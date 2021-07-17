@@ -13,8 +13,15 @@
    - learnability - responsibility
 
 4. **Skills:**
+
    - 1С ★★★☆☆
    - SQL ★★☆☆☆
    - JS ★☆☆☆☆
      Soft:
    - VS Code ★☆☆☆☆
+
+5. **Education:**
+
+   - Turan University 2011 - 2015
+
+6. **English:** A2
